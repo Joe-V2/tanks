@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Joe-V2/tanks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joe-V2/tanks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Tanks   
+A one to four-player, PvE, top-down tank shooter - playable with Xbox 360 controllers!   
+    
+Made for the ACW of the Agile-based Group Development module as part of my Master's degree, this Unity-based 2D cartoon shooter was designed and developed over two months, according to a quoted specification. Committing to a central repository across separate branches, my team and I navigated Git via the agile development philosophy to integrate our work progressively throughout development, creating the prototype available on the (releases page)[https://github.com/Joe-V2/tanks/releases/tag/v1.0.0]. Watch the [youtube video](https://www.youtube.com/watch?v=vEWkxCHSLh8&feature=youtu.be) for a preview!
+   
+Credits:    
+[Joe Greaney](https://github.com/joe-v2) - Player/Game Mechanics, User Controls, Player UI, Power-ups, Envrironmental Systems, Bullet Reflections, Special Effects, Audio Engineering   
+[Murilo Floriani](https://github.com/mfloriani)  - Game UI, Input Systems, Software Architecture and Git Maintenance    
+[Callum Morgan](https://github.com/callummorgan) - Bullet collisions, Powerup Effects    
+[Sohail Turner](https://github.com/soapy98) - Level and Environmental Design, Visual Asset Sourcing    
+[Jason Turner](https://github.com/jturner1998) - AI and NPC systems    
